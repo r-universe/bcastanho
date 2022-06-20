@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SCtools"]
+	path = SCtools
+	url = https://github.com/bcastanho/sctools
+	shallow = true
+	registered = true
